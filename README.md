@@ -21,6 +21,11 @@
   O <b>Daily Diet API</b> é o desafio do <b>segundo módulo</b> do curso  <b>Ignite NodeJS da Rocketseat</b>. Para acessar o código do curso do <b>Ignite NodeJS</b>, <a href="https://github.com/tavareshenrique/ignite-nodejs">clique aqui</a> .
 </p>
 
+
+<p align="center">
+  O projeto consiste em uma API que você pode se cadastrar como usuário, e cadastrar suas refeições, e depois ter um relatória detelhado sobre isso.
+</p>
+
 <p align="center">
   <a href="https://insomnia.rest/run/?label=02%20-%20Ignite%20NodeJS%20%2F%20Daily%20Diet%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2Ftavareshenrique%2F02-daily-diet-api%2Fmain%2Fassets%2FInsomnia_2024-08-25.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
@@ -38,13 +43,13 @@ git clone https://github.com/tavareshenrique/02-ignite-nodejs-daily-diet-api.git
 > **1.1.** Instale as dependências:
 
 ```bash
-yarn
+pnpm install
 ```
 
 > **1.2.** Inicie o Serviço:
 
 ```bash
-yarn dev
+pnpm dev
 ```
 
 > ➡️ Use [http://localhost:3333](http://localhost:3333) para acessar a aplicação.
